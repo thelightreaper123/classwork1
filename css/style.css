@@ -1,0 +1,321 @@
+.intro{
+    background-image: url(../images/banner-bg.png);
+    height: auto;
+    width: auto;
+  background-size: cover;
+}
+.sen1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.sen2{
+    text-align: center;
+    color: white;
+}
+.main-button-slider{
+    border: none;
+    border-radius: 30px;
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: #ff589e;
+    margin-left: 460px;
+}
+.main-button-slider:hover{
+    border: none;
+    border-radius: 30px;
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: #8261ee;
+    margin-left: 460px;
+    transition-delay: 3ms;
+}
+.popup1{
+    border-radius: 20px;
+    height: 300px;
+    width: 350px;
+    margin: 10px;
+    background-color: white;
+    box-shadow: 1px 1px 5px #636060;
+}
+.img1{
+margin: 5px;
+}
+.img1b{
+    background-color: #8261ee;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+.img1b:hover{
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin-left: 130px;
+    margin-top: 30px;
+    background-color: #ff589e;
+    transition-delay: 3ms;
+}
+.sen3{
+    margin-left: 100px;
+    font-size: 20px;
+}
+.sen4{
+    text-align: center;
+    color: gray;
+}
+
+.sen5{
+    margin-top: -300px;
+    margin-left: 600px;
+    font-weight: 500;
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.sen6{
+    margin-top: -200px;
+    margin-left: 600px;
+    color: gainsboro;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
+ .sen8{
+    margin-top: 180px;
+    margin-left: -410px;
+    color: gainsboro;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
+ .sen7{
+    margin-top: 100px;
+    font-weight: 500;
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
+ .line{
+    color: gainsboro;
+    margin-left: 30px;
+ }
+ .img3{
+    margin-left: 350px;
+    margin-top: 30px;
+ }
+ .wp{
+    background-image: url(../images/work-process-bg.png);
+    height: auto;
+    width: auto;
+    background-size: cover; 
+    padding-top: 80px;
+}
+.sen9{
+    font-size: 40px;
+    text-align: center;
+}
+.sen10{
+    text-align: center;
+}
+.img4{
+     margin: 20px;
+     margin-left: 65px;
+}
+.rocket{
+    background-color: white;
+    border-radius: 20px;
+    height: auto;
+    width:170px;
+    outline: #8261ee dashed 5px;
+    margin: 10px;
+}
+.sen11{
+    text-align: center;
+    font-size: 25px;
+}
+.sen12{
+    color: gainsboro;
+    text-align: center;
+}
+.sen23{
+    color: gainsboro;
+    text-align: center;
+    margin-left: 300px;
+}
+.sen13{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 430px;
+}
+.comment{
+    background-color: white;
+    width:350px;
+    height: auto;
+    box-shadow: 2px 2px 6px black;
+    border-radius: 14px;
+   padding-left: 30px;
+   padding-bottom: 10px;
+   margin: 15px;
+}
+.img5{
+    margin-left: 110px;
+    margin-top: 30px;
+}
+.sen14{
+    margin-top: 20px;
+    color: gainsboro;
+    text-align: left;
+}
+.icon{
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    padding: 15px;
+    background-color: grey;
+    text-align: center;
+}
+.sen15{
+    margin-left: 80px;
+    margin-top: -55px;
+}
+.sen16{
+    margin-left: 80px;
+    margin-top: -10px;
+   color: #ff589e;
+}
+.price{
+    background-color: gainsboro;
+    height: auto;
+    width: auto;
+    padding-top: 60px;
+    padding-bottom: 150px;
+}
+.sen17{
+    text-align: center;
+    font-size: 30px;
+}
+.sen18{
+    margin-top: 20px;
+    color: rgb(139, 139, 139);
+    text-align: center;
+}
+.pp{
+    height: auto;
+    width: 350px;
+    border-radius: 10px;
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+.sen19{
+    text-align: center;
+    font-size: 20px;
+}
+.d{
+    background-color: #8261ee;
+    border-radius: 15px;
+    height: auto;
+    width: 280px;
+    text-align: center;
+    font: 30px sans-serif;
+    padding:-left 20px;
+    padding-right :20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.d1{
+    background-color: #ff589e;
+    border-radius: 15px;
+    height: auto;
+    width: 280px;
+    text-align: center;
+    font: 30px sans-serif;
+    padding:-left 20px;
+    padding-right :20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.sen20{
+    text-align: center;
+    font-size: 15px;
+}
+.sen21{
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: gainsboro;
+    text-align: center;
+}
+.sen22{
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: gainsboro;
+    text-align: center;
+    text-decoration: line-through;
+}
+.but1{
+    border: none;
+    border-radius: 30px;
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: #8261ee;
+    margin-left: 35px;
+}
+.but1:hover{
+    border: none;
+    border-radius: 30px;
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: #ff589e;
+    transition-delay: 3ms;
+    margin-left:35px ;
+}
+.funfacts{
+    background-image: url(../images/fun-facts-bg.png);
+    height: auto;
+    max-width: 100%;
+    margin-top: -2px;
+    padding-top: 150px;
+}
+.sen24{
+     color: white;
+   font-size: 50px;
+}
+.sen25{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.img6{
+    width: 60px;
+    height: 20px;
+    margin-top: -200px;
+    margin-left: 150px;
+
+}
+.img7{
+    width: 60px;
+    height: 20px;
+    margin-top: -200px;
+    margin-left: 180px;
+}
+.sen27{
+    color: white;
+  font-size: 50px;
+  margin-left: 30px;
+}
+.sen26{
+    color: white;
+  font-size: 50px;
+  margin-left: 40px;
+}
+.sen28{
+    color: white;
+    font-size: 50px;
+    margin-left: 10px;
+}
